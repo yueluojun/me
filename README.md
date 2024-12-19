@@ -4,8 +4,8 @@
 > ### 另外还有一个备用域：[yueluo.org](http://yueluo.org)，这两个域名，会指向我的主页地址    
 > ### 但仍然可以通过 im@yueluo.net 联系我
 
-> #### Github：[https://github.com/yueluojun/me/](https://github.com/yueluojun/me/)    
-> #### Gitee：[https://gitee.com/yueluo_org/me/](https://gitee.com/yueluo_org/me/)
+> #### Github：[https://github.com/yueluojun/me](https://github.com/yueluojun/me)    
+> #### Gitee：[https://gitee.com/yueluo_org/me](https://gitee.com/yueluo_org/me)
 
 <img src="https://raw.githubusercontent.com/yueluojun/me/refs/heads/main/wechatqr.jpg" width="450">
 
